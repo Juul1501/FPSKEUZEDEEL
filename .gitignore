@@ -4,6 +4,7 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+FPS Keuzedeel/Assets/PrisonPackVol2/*
 
 # Visual Studio cache directory
 .vs/
